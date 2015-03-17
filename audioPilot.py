@@ -1,8 +1,28 @@
 """
+
+audioPilot.py
 audioPilot - automatically finding the best position for transition between songs by content-based audio analysis.
-    Under development by Cheng-i Wang
-    contacts:
-        wangsix@gmail.com
+
+@copyright: 
+Copyright (C) 3.2015 Cheng-i Wang
+
+This file is part of audioPilot.
+
+@license: 
+audioPilot.py is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+audioPilot.py is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with vmo.  If not, see <http://www.gnu.org/licenses/>.
+@author: Cheng-i Wang
+@contact: wangsix@gmail.com, chw160@ucsd.edu
         
 Required modules:
     Numpy
@@ -20,7 +40,7 @@ import scipy.signal as signal
 USAGE = """
 Usage:
     python audioPilot.py <input_filename> <input2_filename> <output_filename> <# of beats>
-Exampel:
+Example:
     python audioPilot.py "CryMeARiver.wav" "CryMeARiver2.wav" "CryCycle.wav" 32 
 """
 
