@@ -20,7 +20,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with vmo.  If not, see <http://www.gnu.org/licenses/>.
+along with audioPilot.  If not, see <http://www.gnu.org/licenses/>.
 @author: Cheng-i Wang
 @contact: wangsix@gmail.com, chw160@ucsd.edu
         
