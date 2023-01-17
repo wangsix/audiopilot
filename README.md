@@ -5,7 +5,7 @@ A python script utilizing the echonest analysis and remix module to transition b
 Cheng-i Wang
 
 # contact
-chw160@ucsd.edu
+wangsix@gmail.com
 
 # usage
     python audioPilot.py <input_filename> <input2_filename> <output_filename> <# of beats>
